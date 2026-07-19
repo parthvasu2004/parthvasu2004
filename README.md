@@ -1,5 +1,90 @@
 # 💫 About Me:
-🚀 Tech Enthusiast: Currently pursuing my B.Tech in CSE-AI, diving deep into Machine Learning, Web Development, and Software Projects.<br><br>🤖 AI Explorer: Actively learning about Generative AI, Prompt Engineering, and working on innovative AI-based solutions.<br><br>💻 Developer at Heart: Skilled in Python, C++, SQL, and Frontend technologies, with a knack for building impactful projects.<br><br>🛠️ Project Highlights:<br><br>🤖 Machine Learning Projects<br><br>🏠 Bangalore House Price Predictor<br>Predicts housing prices in Bangalore using ML regression techniques.<br><br>🚗 Car Price Predictor<br>Estimates resale value of cars based on various features.<br><br>🎬 Movie Recommendation System<br>Suggests similar movies based on user preferences.<br><br>📩 SMS Spam Predictor<br>Detects spam messages using NLP and classification models.<br><br>🩺 Diabetes Predictor<br>Predicts diabetes likelihood based on medical input data.<br><br>🌟 Open to Collaboration: Passionate about contributing to AI projects, Open-Source, and Tech Communities. Let's build something amazing together!<br><br>🎉 Fun Fact: I won Best Paper Award and multiple competitions for my tech innovations! 🏆<br><br>💬 Ask Me About:<br><br>💡 AI and Machine Learning<br><br>🌐 Web Development<br><br>📚 Career Guidance<br><br>🎯 Personal Branding
+# Hi there 👋 I'm Parth Pandey
+
+🚀 AI Engineer | Full-Stack Developer | Machine Learning Enthusiast
+
+I enjoy building intelligent applications that combine AI with practical software engineering. My work spans **Multimodal AI, Machine Learning, NLP, Generative AI, and Full-Stack Development**, with a focus on creating products that solve real-world problems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🖼️ Multimodal AI Browser Extension
+
+Built a browser extension powered by **Stable Diffusion, CLIP, and BLIP** for text-to-image generation and image captioning.
+
+**Highlights**
+
+* Interactive browser extension interface
+* Real-time multimodal inference (~5s response)
+* Image understanding + AI image generation
+* Optimized user experience for seamless interaction
+
+---
+
+### 🏦 Bank Lending System
+
+A full-stack loan management application built using **React.js, Node.js (Express.js), SQLite, and REST APIs**.
+
+**Features**
+
+* Loan creation and management
+* Repayment processing
+* Customer loan history
+* Payment tracking
+* Secure RESTful backend
+
+---
+
+### 🤖 Machine Learning Projects
+
+A collection of practical ML applications using **Python, Pandas, NLTK, and Scikit-learn**.
+
+Projects include:
+
+* House Price Prediction
+* Car Price Prediction
+* Disease Prediction
+* Movie Recommendation System
+* SMS Spam Classification
+
+---
+
+## 🏆 Achievements
+
+🥉 Second Runner-Up — **SCROLLS'24 National Technical Paper Presentation**
+
+🏅 Best Paper Award — **NHSEMH 2023**
+
+☁️ AWS Cloud Practitioner Essentials Certified
+
+📄 Co-author of the research paper:
+**"Real Time Tracking and Detection of Enemy Through Machine Gun Technique"** (IJSRST)
+
+---
+
+## 🌱 Currently Exploring
+
+* Agentic AI
+* Advanced LLM Applications
+* AI Automation
+* AI System Design
+* Production-ready AI Applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+* AI & Machine Learning
+* Open Source
+* Full-Stack Applications
+* Generative AI
+* Developer Tools
+
+If you have an interesting idea, feel free to connect or open an issue on one of my repositories.
+
 
 
 ## 🌐 Socials:
